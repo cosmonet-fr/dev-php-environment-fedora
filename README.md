@@ -1,4 +1,4 @@
-# Créer un environnement de développement sous Fédora
+# Créer un environnement de développement sous Fedora
 
 basé sur : https://doc.fedora-fr.org/wiki/Installation_et_configuration_d%27Apache
 
@@ -66,4 +66,13 @@ $ mkdir ~/public_html
 ```
 
 remplacer SELINUX=enforcing par SELINUX=disabled
+
+----
+## Installation et configuration de MariaDB
+
+```bash
+# dnf install mariadb-server
+```
+
+Créer un utilisateur et lui donner tout les droits
 
