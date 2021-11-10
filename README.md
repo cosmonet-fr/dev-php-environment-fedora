@@ -1,4 +1,4 @@
-# Créer un environement de developpement sous Fédora
+# Créer un environnement de développement sous Fédora
 
 basé sur : https://doc.fedora-fr.org/wiki/Installation_et_configuration_d%27Apache
 
